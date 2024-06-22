@@ -1,0 +1,148 @@
+.a
+{
+	height: 70px;
+	width: 100%;
+	background-color: darkblue;
+	color: white;
+	display: flex;
+	justify-content: space-evenly;
+	line-height: 70px;
+}
+.b 
+{
+	height: 500px;
+	width: 1255px;
+	background-image: url(image/background2.avif);
+	background-size: cover;
+	color: white;
+	font-size: 18px;
+	padding-top: 150px;
+	padding-left: 250px;
+}
+.b button 
+{
+	height: 40px;
+	width: 150px;
+	color: white;
+}
+.c 
+{
+	height: 300px;
+	width: 100%;
+	display: flex;
+	padding-top: 80px;
+}
+.d 
+{
+	height: 200px;
+	width: 50%;
+	margin-left: 300px;
+}
+.e
+{
+	height: 200px;
+	width: 70%;
+	margin-right: 400px;
+}
+.parent 
+{
+	height: 600px;
+	width: 70%;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 355px 355px 355px 355px 355px;
+	row-gap: 30px;
+	column-gap: 30px;
+	margin-top: 60px;
+}
+.f 
+{
+	height: 300px;
+	width: 100%;
+	background-image: url(image/banner6.jpg);
+	margin-top: 600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	padding-top: 200px;
+	font-size: 20px;
+}
+.g 
+{
+	height: 100px;
+	width: 100%;
+}
+.teacher
+{
+	height: 60px;
+	width: 100%;
+	display: flex;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 300px;
+}
+.child 
+{
+	height: 300px;
+	width: 20%;
+	padding-left: 150px;
+}
+.h 
+{
+	height: 100px;
+	width: 94.6%;
+	background-image: url(image/background1.avif);
+	margin-top: 500px;
+	background-size: cover;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 100px;
+	padding-right: 80px;
+}
+.i 
+{
+	height: 500px;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-rows: 400px;
+	background-color: black;
+	color: white;
+}
+.class 
+{
+	width: 200px;
+	margin-top: 80px;
+	padding-left: 70px;
+}
+.m input 
+{
+	background-color: lightgray;
+	height: 30px;
+	color: whitesmoke;
+}
+.m button 
+{
+	height: 30px;
+	width: 70px;
+	background-color: skyblue;
+	border: none;
+	color: white;
+}
+.o 
+{
+	height: 200px;
+	width: 86.6%;
+	padding-left: 200px;
+	color: white;
+	background-color: gray;
+	padding-top: 30px;
+}
+
+
+
+
+
+
+
+
